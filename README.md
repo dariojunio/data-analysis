@@ -21,5 +21,5 @@ Exploratory analysis of the FIFA 19 dataset (10,000+ players).
 
 ## Dataset
 
-Download the FIFA 19 dataset on [Kaggle](https://www.kaggle.com/datasets/karangadiya/fifa19).
+Download the FIFA 19 dataset on [Kaggle](https://www.kaggle.com/datasets/chaitanyahivlekar/fifa-19-player-dataset/data).
 
