@@ -6,6 +6,45 @@ actionable insights using Python and pandas.
 ---
 
 <details>
+<summary><strong>Impacto Climático na Agricultura do Sudeste Brasileiro</strong></summary>
+
+<br>
+
+**Central question:** How do climate variations (temperature, rainfall, and drought periods) affect the production of major crops in Southeast Brazil?
+
+An exploratory analysis of agricultural production (2013–2023) for coffee, sugarcane, orange, and corn in the Southeast region, investigating the relationship between climate variables and crop yields across 11 years of data.
+
+#### Notebooks
+
+| # | Notebook | What it covers |
+|---|---|---|
+| 01 | `01_exploracao.ipynb` | Dataset structure, production by crop, climate variable trends and initial correlations |
+
+#### Key Findings
+
+- Sugarcane dominates Southeast production with over 5 billion tons in the period, dwarfing orange (154M tons) and coffee (29M tons)
+- Average consecutive dry days (CDD): 53 days, with severe drought peaks in 2020 (62 days) and 2017 (61 days)
+- Temperature remained relatively stable (25.7°C average) with only 0.5°C variation across the decade
+- Climate variability appears to be increasing in recent years, with CDD fluctuations becoming more pronounced
+- Extended drought periods pose direct risks to productivity, especially for climate-sensitive crops like coffee and corn
+
+#### Stack
+
+- Python 3
+- pandas
+- matplotlib
+- Jupyter Notebook
+
+#### Datasets
+
+- **Agricultural Production**: IBGE — Pesquisa Agrícola Municipal (PAM)
+- **Climate Data**: ERA5 (ECMWF) for precipitation and CDD, CRU TS for temperature
+
+</details>
+
+---
+
+<details>
 <summary><strong>FIFA 19 — Player Analysis</strong></summary>
 
 <br>
