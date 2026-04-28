@@ -46,7 +46,7 @@ Fonte: [Kaggle, Spotify Wrapped 2025 Top Songs and Artists](https://www.kaggle.c
 spotify-top50-2025-analysis/
 ├── 01_exploracao.ipynb
 ├── 02_volume_vs_consistencia.ipynb
-├── 03_generos
+├── 03_generos.ipynb
 ├── 04_outliers.ipynb
 └── 2025_top50_songs.csv
 ```
