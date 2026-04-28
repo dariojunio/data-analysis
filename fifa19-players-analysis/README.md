@@ -1,6 +1,3 @@
-# README para `fifa19-players-analysis`
-
-```md
 # FIFA 19 Player Analysis
 
 Análise exploratória do dataset de jogadores do FIFA 19, com foco em desempenho, potencial, valor de mercado, salários, nacionalidades, clubes e características dos atletas.
