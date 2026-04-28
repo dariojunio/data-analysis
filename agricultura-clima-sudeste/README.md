@@ -121,7 +121,7 @@ pip install -r requirements.txt
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/agricultura-clima-sudeste.git
+git clone https://github.com/dariojunio/agricultura-clima-sudeste.git
 cd agricultura-clima-sudeste
 ```
 
