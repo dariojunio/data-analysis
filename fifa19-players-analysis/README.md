@@ -129,4 +129,4 @@ jupyter notebook
 A análise mostra que o dataset do FIFA 19 permite explorar diferentes dimensões do desempenho de jogadores, desde atributos técnicos até indicadores de mercado.
 
 Os resultados reforçam que jogadores de elite combinam alto overall, alto potencial, salários elevados e grande valor de mercado. Ao mesmo tempo, a análise de jovens talentos mostra como jogadores mais novos com potencial elevado podem representar ativos valiosos dentro do contexto do jogo.
-```
+
